@@ -50,7 +50,8 @@ Our team consists of experienced professionals, each with deep knowledge and ski
 
 | Name | Role | Area of Expertise |
 | :--- | :--- | :--- |
-| Nikita Korablev | — | **Team Lead / Founder** |
+| Nikita Ivanov | — | **Team Lead / Founder** |
+| Nikita Korablev | **Android Developer** | Development mobile apps on Kotlin |
 | Denis Koryagin | **Backend Developer** | Development of high-load systems |
 | Arsen Kostanyan | **AI Agents Developer** | Architecture and deployment of AI agents |
 | Kirill Ivanov | **AI Agents Developer** | Development of AI agent logic and training |
